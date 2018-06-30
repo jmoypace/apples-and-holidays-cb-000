@@ -56,6 +56,7 @@ holiday_hash.each do|season|
     items.each do|items |
       items.capitalize
     end
+  end
 end
 
 def all_holidays_with_bbq(holiday_hash)
